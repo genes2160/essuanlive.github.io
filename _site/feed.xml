@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Essuanlive</title>
+    <description>Updates from the world of Free Open Source Softwares.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 21 Feb 2019 16:27:37 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Feb 2019 16:27:37 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      
+      <item>
+        <title>OCA Accra Experience</title>
+        <description>&lt;p class=&quot;intro&quot; style=&quot;text-align:justify;&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;A&lt;/span&gt;ccra is one of the cities in Ghana which is noted as a flood prone urban area. This is as a result of the existence of population density. In efforts to minimize the occurrence of flooding, Open Cities Africa, an initiative of the World Bank is helping some African cities curb the menace. The aim of this project &lt;a href=&quot;https://opencitiesproject.org/&quot;&gt;Open Cities Africa&lt;/a&gt; is to enable Accra attain the world's standard of a clean and resilient city.&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot;&gt; The areas targeted in Accra which are flood-prone areas are; Alogboshie, Akweteyman, Alajo and Nima, located along the Odaw River. Open Cities, is putting in all efforts to contribute in mapping out these flood prone areas to make it easy to solve the menace.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/akwetrash.JPG&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;This image was taken during our field data collection&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p align=&quot;justify&quot;&gt;I am Fidel Essaun Nyameke, a contributor of the Building and Data cleaning team. Our work is identified with collecting all points of interest with the exception of drains which is carried out by another team.
+We use simple multiple tools to enhance data collection. Example of such tools are Data Kit (ODK) and Open Map Kit (OMK). These tools have made it easier to collect data from the field since the procedure is paperless, assuring its quality.
+Our second phase of mapping was in Akweteyman. The testing was started on Friday, 25th of January 2019.
+We recorded a few issues that were resolved this gave the team the Green light to start the field Data collection.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/25_01.JPG&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;The Field Data Collection team been dispatched to test the form on the field&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p align=&quot;justify&quot;&gt;We recorded a few issues that were resolved this gave the team the Green light to start the field Data collection.
+Data collection started on Monday. Engaging with the community was challenging since majority of the populace had no idea about Open Cities Africa, HotOSM and the other organizations supporting the project.
+Fortunately, my team which consisted of six field data collectors were well vexed with the languages of the residents. This made it easier for us to interact with them.
+They residents expressed their concern of incidences of flooding which has affected them greatly. They also recounted of a flooding which killed a University student two years ago. The incidence has also caused serious erosion in the suburb. 
+This indeed was necessary for our work and also provide field data.&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot;&gt;
+During our data collection, we noticed that most of the routes leading to the public toilets have no access route to cars. We found out that most of them use the major ditch to dispose of the waste.
+Nevertheless, we are yet to clean and verify the work done by field data collectors on Data quality.
+
+&lt;/p&gt;
+
+</description>
+        
+          <description>&lt;p class=&quot;intro&quot; style=&quot;text-align:justify;&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;A&lt;/span&gt;ccra is one of the cities in Ghana which is noted as a flood prone urban area. This is as a result of the existence of population density. In efforts to minimize the occurrence of flooding, Open Cities Africa, an initiative of the World Bank is helping some African cities curb the menace. The aim of this project &lt;a href=&quot;https://opencitiesproject.org/&quot;&gt;Open Cities Africa&lt;/a&gt; is to enable Accra attain the world's standard of a clean and resilient city.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/open-cities-africa-accra-experience/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/open-cities-africa-accra-experience/</guid>
+        
+        
+      </item>
+      
+    
+  </channel>
+</rss>
