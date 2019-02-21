@@ -10,7 +10,7 @@ date:   2019-02-21
 <p align="justify"> The areas targeted in Accra which are flood-prone areas are; Alogboshie, Akweteyman, Alajo and Nima, located along the Odaw River. Open Cities, is putting in all efforts to contribute in mapping out these flood prone areas to make it easy to solve the menace.</p>
 
 <figure>
-	<img src="{{ '/assets/img/akwetrash.JPG' | prepend: site.baseurl }}" alt="" width="200px" height="200px"> 
+	<img src="{{ '/assets/img/akwetrash.JPG' | prepend: site.baseurl }}" alt="" style="width:200px;height:200px;"> 
 	<figcaption>This image was taken during our field data collection</figcaption>
 </figure>
 
